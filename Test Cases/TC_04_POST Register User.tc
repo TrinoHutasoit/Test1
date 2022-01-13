@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04_POST Register User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f88e25ac-8595-46dd-bda1-66eb237f517b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_03_PUT Update User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd2f355b-a0f3-4f60-9ddf-6df167141e47</testCaseGuid>
+</TestCaseEntity>
